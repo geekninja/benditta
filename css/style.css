@@ -1,28 +1,51 @@
 .top-bar {
-background-color: #7973b4;
-border-bottom: none;
+  background-color: #7973b4;
+  border-bottom: none;
 }
 .navbar {
   background-color: #fff;
 
 }
 .navbar-inverse .navbar-nav > li > a{
-    color:#4A4771;
+  color:#4A4771;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus, .navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .open > a:hover, .navbar-inverse .navbar-nav > .open > a:focus {
-    background-color: #4A4771;
-    color: #fff;
+  background-color: #4A4771;
+  color: #fff;
   }
 .navbar-inverse .navbar-nav > li > a:hover{
   background-color: #4A4771;
   color: #fff;
 }
 #footer {
-background: #4a4771;
+  background: #4a4771;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-    background-color: #4A4771;
+  background-color: #4A4771;
 }
 .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle {
-    background-color: #4A4771;
+  background-color: #4A4771;
+}
+#main-slider .prev, #main-slider .next {
+  background-color: #4A4771;
+}
+.slider-img {
+  margin-left: 237px;
+  margin-top: -140px;
+}
+#main-slider .carousel .item {
+  height: 500px;
+}
+#main-slider .carousel .carousel-content {
+margin-top: 260px;
+}
+#services {
+    background: #4A4771 url(../images/services/bg_services.png);
+    background-size: cover;
+  }
+.recent-work-wrap .overlay {
+  background-color: #4A4771;
+}
+.title-ultimos-projetos {
+  color: #4A4771;
 }
